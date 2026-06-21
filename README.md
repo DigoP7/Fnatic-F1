@@ -31,9 +31,5 @@ Seguindo padrões de organização profissional, o projeto está dividido em:
 * `/video`: Vídeos integrados das equipes de F1.
 * `index.html`: Página principal e seções internas.
 
-## 🚀 Evolução Profissional
-
-Embora este projeto tenha sido concluído com as restrições acima, ele serviu de base para meus estudos atuais em **PHP**, onde estou aprendendo a transformar interfaces estáticas em sistemas dinâmicos com conexão a bancos de dados.
-
 ---
 **Desenvolvido por Rodrigo Massimino** *Estudante de Análise e Desenvolvimento de Sistemas | UniSenac-RS*
